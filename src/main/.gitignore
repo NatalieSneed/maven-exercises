@@ -1,0 +1,10 @@
+*.iml
+target/
+
+
+### IntelliJ IDEA ###
+.idea/
+
+### Mac OS ###
+.DS_Store
+logs
